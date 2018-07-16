@@ -3,19 +3,31 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+import plotly.graph_objs as go
 import pandas as pd
 
-#
-url="https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv"
-c=pd.read_csv(url)
+# read in the dataset
+url="https://raw.githubusercontent.com/austinlasseter/plotly_dash_tutorial/master/titanic.csv"
+df=pd.read_csv(url)
 
-# output = len(df)
+# Build the Figure using Plotly Graph Objects
+data = [go.Bar(
+    x=df['Pclass'],  # NOC stands for National Olympic Committee
+    y=df['Fare']
+)]
+layout = go.Layout(
+    title='Who survived the Titanic?',
+    xaxis = {'title': 'Category'},
+    yaxis = {'title': 'Percent that survived'},
+)
+my_fig = go.Figure(data=data, layout=layout)
+
 
 # instantiate
 app = dash.Dash()
 
 # layout
-app.layout = html.Div(len(c))
+app.layout = dcc.Graph(id='scatterplot2', figure = my_fig)
 
 # execute
 if __name__ == '__main__':
