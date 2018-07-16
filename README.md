@@ -5,8 +5,9 @@
 [Dash by Plotly](https://dash.plot.ly/installation)  
 [Atom by Github](https://atom.io)
 For deploying to the cloud, you'll also need:
-[Git](https://git-scm.com/downloads)
-[Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+[Git](https://git-scm.com/downloads)  
+[Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)  
+[You'll also need to open a free Heroku account](https://signup.heroku.com/dc)
 
 #### Official Resources from Plotly:  
 [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503)  
