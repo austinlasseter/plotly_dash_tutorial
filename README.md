@@ -1,8 +1,8 @@
-# Deloitte Analytics U Workshop: Getting Started with Plotly Dash
+# Deloitte Analytics U Workshop: Getting Started with Dash
 
 #### Installation
 [Anaconda](https://www.anaconda.com/download/)  
-[Dash by Plotly](https://dash.plot.ly/installation)
+[Dash by Plotly](https://dash.plot.ly/installation)  
 [Atom by Github](https://atom.io)
 
 #### Official Resources from Plotly:  
