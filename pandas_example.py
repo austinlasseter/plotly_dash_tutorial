@@ -16,9 +16,9 @@ data = [go.Bar(
     y=df['Fare']
 )]
 layout = go.Layout(
-    title='Who survived the Titanic?',
-    xaxis = {'title': 'Category'},
-    yaxis = {'title': 'Percent that survived'},
+    title='How much did Titanic passengers pay?',
+    xaxis = {'title': 'What deck class were they?'},
+    yaxis = {'title': 'What was their average fare?'},
 )
 my_fig = go.Figure(data=data, layout=layout)
 
