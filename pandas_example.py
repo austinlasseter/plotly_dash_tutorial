@@ -12,7 +12,7 @@ df=pd.read_csv(url)
 
 # Build the Figure using Plotly Graph Objects
 data = [go.Bar(
-    x=df['Pclass'],  # NOC stands for National Olympic Committee
+    x=df['Pclass'],
     y=df['Fare']
 )]
 layout = go.Layout(
