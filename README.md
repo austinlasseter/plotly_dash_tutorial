@@ -32,6 +32,7 @@ pip install virtualenv
 [How a Flask app works](https://pythonhow.com/how-a-flask-app-works/)  
 
 #### Cloud Deployment
+[Example of a simple deployed app](https://github.com/austinlasseter/simple_dash_app)  
 [How to deploy a Dash using AWS command line](https://medium.com/@austinlasseter/plotly-dash-and-the-elastic-beanstalk-command-line-89fb6b67bb79)  
 [How to deploy a Dash app using AWS GUI console](https://medium.com/@austinlasseter/deploying-a-dash-app-with-elastic-beanstalk-console-27a834ebe91d)  
 [How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)  
