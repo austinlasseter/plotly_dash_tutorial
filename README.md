@@ -3,7 +3,11 @@
 #### Installation
 [Anaconda](https://www.anaconda.com/download/)  
 [Dash by Plotly](https://dash.plot.ly/installation)  
-[Atom by Github](https://atom.io)
+[Atom by Github](https://atom.io)  
+For deploying to the cloud, you'll also need:
+[Git](https://git-scm.com/downloads)  
+[Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) -- You'll also need to open a [free Heroku account](https://signup.heroku.com/dc)  
+pip install virtualenv
 
 #### Official Resources from Plotly:  
 [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503)  
@@ -19,9 +23,10 @@
 [Dash Workbook by Jose Portilla](https://docs.google.com/document/d/1DjWL2DxLiRaBrlD3ELyQlCBRu7UQuuWfgjv9LncNp_M/edit)  
 [Github Repo by Jose Portilla](https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash)  
 
-#### Useful Medium articles:  
+#### Useful blog posts:  
 [Bokeh vs. Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f)  
 [Using Dash to build public sector dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb)  
+[How a Flask app works](https://pythonhow.com/how-a-flask-app-works/)  
 
 #### Cloud Deployment
 [How to deploy a Dash using AWS command line](https://medium.com/@austinlasseter/plotly-dash-and-the-elastic-beanstalk-command-line-89fb6b67bb79)  
