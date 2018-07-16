@@ -11,7 +11,7 @@
 [Dash User Guide](https://dash.plot.ly/)  
 [Dash Workshop, Washington DC Edition - June 9-10, 2018](https://dash-workshop.plot.ly/)  
 [Chris Parmer's github repo for Dash](https://github.com/plotly/dash-docs)  
-[Dash Community Forum - like StackOverflow for Dash](https://community.plot.ly/c/dash)
+[Dash Community Forum - like StackOverflow for Dash](https://community.plot.ly/c/dash)  
 [Gallery of Dash apps](https://dash.plot.ly/gallery)  
 
 #### Jose Portilla's Udemy Course  
@@ -26,8 +26,8 @@
 #### Cloud Deployment
 [How to deploy a Dash using AWS command line](https://medium.com/@austinlasseter/plotly-dash-and-the-elastic-beanstalk-command-line-89fb6b67bb79)  
 [How to deploy a Dash app using AWS GUI console](https://medium.com/@austinlasseter/deploying-a-dash-app-with-elastic-beanstalk-console-27a834ebe91d)  
-[How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)
-[AWS Elastic Beanstalk Command Line](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-windows.html)
+[How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)  
+[AWS Elastic Beanstalk Command Line](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-windows.html)  
 [Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)
 
 #### Some simple dashboards built by yours truly
