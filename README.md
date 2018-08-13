@@ -1,7 +1,7 @@
 # Deloitte Analytics U Workshop: Getting Started with Dash
 
 #### Course Description
-This course is a Python framework for building analytical web applications. Dash ties modern UI elements like dropdowns, sliders, and graphs to your Python code. In this class, participants will learn how to build a simple Dash application and deploy it online.
+This course is a Python framework for building analytical web applications. Dash ties modern UI elements like dropdowns, sliders, and graphs to your Python code. In this class, participants will learn how to build a simple Dash application and deploy it online. Note: A lot of the material in this repo is taken from Chris Palmer and Jose Portilla - so full credit goes to them! Links below to their repos.
 
 #### Installation
 [Anaconda](https://www.anaconda.com/download/)  
