@@ -12,7 +12,7 @@ app = Flask(__name__)       # once we import Flask, we need to create an instanc
 
 
 ''' define a function '''
-@app.route('/')       # This line is a function decorator, mapping the function follows to localhost:5000/my_app
+@app.route('/my_app')       # This line is a function decorator, mapping the function follows to localhost:5000/my_app
 def home():                 # we define a function that returns the string “Hey there!”.
     return "Hey there!"
 
