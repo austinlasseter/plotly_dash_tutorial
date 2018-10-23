@@ -3,7 +3,7 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import plotly.graph_objs as go
+
 import pandas as pd
 
 # read in the dataset
@@ -36,7 +36,8 @@ app.layout = html.Div(children=[
                 'yaxis':{'title':'Percentage Survival'},
             }
         }
-    )
+    ),
+    html.H1('this is another heading')
 ])
 
 # execute

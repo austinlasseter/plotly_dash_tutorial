@@ -12,13 +12,13 @@ app = Flask(__name__)       # once we import Flask, we need to create an instanc
 
 
 ''' define a function '''
-@app.route('/my_app')       # This line is a function decorator, mapping the function follows to localhost:5000/my_app
+@app.route('/')       # This line is a function decorator, mapping the function follows to localhost:5000/my_app
 def home():                 # we define a function that returns the string “Hey there!”.
     return "Hey there!"
 
 
 ''' execute '''
 if __name__ == '__main__':  # This is only true when the script is executed. If it is imported, it will be false.
-    app.run(debug=True)     # Prints out possible Python errors on the web page helping us trace the errors. Only use in Dev, not Prod.
+    app.run()     # Prints out possible Python errors on the web page helping us trace the errors. Only use in Dev, not Prod.
 
 # Source: https://pythonhow.com/how-a-flask-app-works/
