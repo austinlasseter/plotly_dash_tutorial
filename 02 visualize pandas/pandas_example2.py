@@ -7,8 +7,8 @@ import plotly.graph_objs as go
 import pandas as pd
 
 # read in the dataset
-url="https://raw.githubusercontent.com/austinlasseter/plotly_dash_tutorial/master/titanic.csv"
-df=pd.read_csv(url)
+source="../00 resources/titanic.csv"
+df=pd.read_csv(source)
 
 # Build the Figure using Plotly Graph Objects
 data = [go.Bar(

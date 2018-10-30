@@ -7,8 +7,8 @@ import dash_html_components as html
 import pandas as pd
 
 # read in the dataset
-url="https://raw.githubusercontent.com/austinlasseter/plotly_dash_tutorial/master/titanic.csv"
-df=pd.read_csv(url)
+source="../00 resources/titanic.csv"
+df=pd.read_csv(source)
 # group survival results by sex and cabin class
 sex_survive=df.groupby(['Sex', 'Pclass']).Survived.mean()
 sex_survive=sex_survive*100
