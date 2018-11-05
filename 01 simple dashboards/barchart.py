@@ -8,26 +8,18 @@ app.css.append_css({'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'
 app.title = 'Deloitte Dash'
 
 app.layout = html.Div(children=[
-    html.H1('Hello Dash'),
-
-    html.Div(
-        children='Dash: A web application framework for Python.',
-        style={
-            'textAlign': 'right'
-        }
-    ),
-
+    html.H1('Plotly Dash - the best way to visualize your data!'),
     dcc.Graph(
         id='this_is_an_id',
         figure={
             'data': [
-                {'x': [1, 2, 3], 'y': [8, 4, 3], 'type': 'bar', 'name': 'SF'},
-                {'x': [1, 2, 3], 'y': [2, 4, 5], 'type': 'bar', 'name': u'Montréal'},
+                {'x': ['Dash', 'Powerpoint', 'Lascaux cave paintings'], 'y': [8, 2, 3], 'type': 'bar', 'name': 'Intelligence'},
+                {'x': ['Dash', 'Powerpoint', 'Lascaux cave paintings'], 'y': [7, 1, 5], 'type': 'bar', 'name': 'Beauty'},
             ],
             'layout': {
-                'title': 'This is my graph',
-                'xaxis':{'title':'This is the x axis'},
-                'yaxis':{'title':'This is the y axis'},
+                'title': "Because friends don't let friends use Microsoft Powerpoint",
+                'xaxis':{'title':'Choice of data visualization'},
+                'yaxis':{'title':'Approval rating by average data scientist'},
             }
         }
     )]
