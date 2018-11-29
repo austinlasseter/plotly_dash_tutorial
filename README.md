@@ -30,6 +30,7 @@ pip install virtualenv
 [Bokeh vs. Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f)  
 [Using Dash to build public sector dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb)  
 [How a Flask app works](https://pythonhow.com/how-a-flask-app-works/)  
+[Great blog post by J Wood](https://www.wintellect.com/creating-web-apps-machine-learning-models-dash/)
 
 #### Cloud Deployment
 [Example of a simple deployed app](https://github.com/austinlasseter/simple_dash_app)  
