@@ -38,7 +38,8 @@ pip install virtualenv
 [How to deploy a Dash app using AWS GUI console](https://medium.com/@austinlasseter/deploying-a-dash-app-with-elastic-beanstalk-console-27a834ebe91d)  
 [How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)  
 [AWS Elastic Beanstalk Command Line](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-windows.html)  
-[Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)
+[Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)  
+[Hosting your Python Application using Flask and Amazon Web Services](https://amunategui.github.io/idea-to-pitch/index.html)  
 
 #### A few dashboards built by yours truly
 [ContextEdge Demo: Analysis of Public Comments on USCIS Regulation](http://uscis-env.kpcndmi8pp.us-east-1.elasticbeanstalk.com)
