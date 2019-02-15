@@ -7,19 +7,21 @@ import dash_html_components as html
 import pandas as pd
 
 # read in the dataset
-source="../00 resources/titanic.csv"
+source="https://raw.githubusercontent.com/agconti/kaggle-titanic/master/data/train.csv"
+
 df=pd.read_csv(source)
 # group survival results by sex and cabin class
-sex_survive=df.groupby(['Sex', 'Pclass']).Survived.mean()
+sex_survive=df.groupby(['Sex', 'Pclass'])['Survived'].mean()
 sex_survive=sex_survive*100
 mylist=list(sex_survive)
 
-# instantiate the class
+# instantiate the class, specify the server
 app = dash.Dash()
+#server = app.server
 app.css.append_css({'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'})
-app.title = 'Titanic!'
 
 # define the layout
+app.title = 'Titanic!'
 app.layout = html.Div(children=[
     html.H1(children='Titanic!'),
     html.Div(children='Who survived the sinking of the Titanic?'),
@@ -37,7 +39,7 @@ app.layout = html.Div(children=[
             }
         }
     ),
-    html.H1('this is another heading')
+
 ])
 
 # execute
