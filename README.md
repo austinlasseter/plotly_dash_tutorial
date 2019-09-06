@@ -1,4 +1,4 @@
-# Deloitte Workshop: Getting Started with Plotly Dash
+# Getting Started with Plotly Dash
 
 #### Course Description
 This course is a Python framework for building analytical web applications. Dash ties modern UI elements like dropdowns, sliders, and graphs to your Python code. In this class, participants will learn how to build a simple Dash application and deploy it online. Note: A lot of the material in this repo is taken from Chris Palmer and Jose Portilla - so full credit goes to them! Links below to their repos.
@@ -38,10 +38,13 @@ pip install virtualenv
 [How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)  
 [AWS Elastic Beanstalk Command Line](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-windows.html)  
 [Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)
+<<<<<<< HEAD
 
 #### A few dashboards built by yours truly
-[ContextEdge Demo: Analysis of Public Comments on USCIS Regulation](http://uscis-env.kpcndmi8pp.us-east-1.elasticbeanstalk.com)  
-[Opioid Crisis in Virginia](https://va-opioid-dashboard.herokuapp.com/)  
-[Simple example of a cloud-hosted skeleton app](http://chucknorris-dev.us-east-1.elasticbeanstalk.com/)  
-[Simple example of a map app](https://obscure-brook-30801.herokuapp.com/)  
- 
+* https://dashboard.heroku.com/apps/va-opioid-dashboard
+* https://virginia-2016-vote-totals.herokuapp.com/
+* https://my-test-pandas-app-123.herokuapp.com/
+* http://titanicclassifier-env.g8sipcfcmu.us-east-1.elasticbeanstalk.com/
+* http://python-eda-example.us-east-1.elasticbeanstalk.com/
+=======
+>>>>>>> 411a09c4e0cca526a981f5bf4248983527b37736
