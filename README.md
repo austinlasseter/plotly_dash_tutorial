@@ -30,7 +30,6 @@ pip install virtualenv
 [Bokeh vs. Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f)  
 [Using Dash to build public sector dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb)  
 [How a Flask app works](https://pythonhow.com/how-a-flask-app-works/)  
-[Great blog post by J Wood](https://www.wintellect.com/creating-web-apps-machine-learning-models-dash/)
 
 #### Cloud Deployment
 [Example of a simple deployed app](https://github.com/austinlasseter/simple_dash_app)  
@@ -38,12 +37,11 @@ pip install virtualenv
 [How to deploy a Dash app using AWS GUI console](https://medium.com/@austinlasseter/deploying-a-dash-app-with-elastic-beanstalk-console-27a834ebe91d)  
 [How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)  
 [AWS Elastic Beanstalk Command Line](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-windows.html)  
-[Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)  
-[Hosting your Python Application using Flask and Amazon Web Services](https://amunategui.github.io/idea-to-pitch/index.html)  
+[Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)
 
 #### A few dashboards built by yours truly
-[ContextEdge Demo: Analysis of Public Comments on USCIS Regulation](http://uscis-env.kpcndmi8pp.us-east-1.elasticbeanstalk.com)
+[ContextEdge Demo: Analysis of Public Comments on USCIS Regulation](http://uscis-env.kpcndmi8pp.us-east-1.elasticbeanstalk.com)  
 [Opioid Crisis in Virginia](https://va-opioid-dashboard.herokuapp.com/)  
-[Simple example of a cloud-hosted skeleton app](http://chucknorris-dev.us-east-1.elasticbeanstalk.com/) 
-[Simple example of a map app](https://obscure-brook-30801.herokuapp.com/)
+[Simple example of a cloud-hosted skeleton app](http://chucknorris-dev.us-east-1.elasticbeanstalk.com/)  
+[Simple example of a map app](https://obscure-brook-30801.herokuapp.com/)  
  
