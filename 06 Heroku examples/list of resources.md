@@ -11,7 +11,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 
 ## Dash apps with maps
 
-* https://dashboard.heroku.com/apps/va-opioid-dashboard
+* https://va-opioid-dashboard.herokuapp.com/
 * https://iowa-has-lots-of-corn.herokuapp.com/
 * https://obscure-brook-30801.herokuapp.com/
 
