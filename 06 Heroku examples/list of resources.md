@@ -20,6 +20,8 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://chuck-norris-execution.herokuapp.com/
 * https://virginia-2016-vote-totals.herokuapp.com/
 * https://my-test-pandas-app-123.herokuapp.com/
+* https://dash-radio-callback.herokuapp.com/
+* https://lightsaber-chooser.herokuapp.com/
 
 ## Dash apps for machine learning models
 
