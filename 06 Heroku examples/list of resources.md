@@ -17,6 +17,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 
 ## Dash apps with simple callbacks
 
+* https://dash-simple-callback.herokuapp.com
 * https://chuck-norris-execution.herokuapp.com/
 * https://virginia-2016-vote-totals.herokuapp.com/
 * https://my-test-pandas-app-123.herokuapp.com/
