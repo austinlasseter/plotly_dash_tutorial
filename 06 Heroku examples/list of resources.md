@@ -26,7 +26,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 
 ## Dash apps for machine learning models
 
+* https://knn-iris-classifier.herokuapp.com/
 * http://titanicclassifier-env.g8sipcfcmu.us-east-1.elasticbeanstalk.com/
 * http://python-eda-example.us-east-1.elasticbeanstalk.com/
-* https://github.com/austinlasseter/titanic_classifier
-* https://github.com/austinlasseter/predict_device_failure
+
