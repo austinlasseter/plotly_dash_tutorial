@@ -38,13 +38,12 @@ pip install virtualenv
 [How to deploy a Dash app using Heroku](https://dash.plot.ly/deployment)  
 [AWS Elastic Beanstalk Command Line](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-windows.html)  
 [Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli)
-<<<<<<< HEAD
 
 #### A few dashboards built by yours truly
+* https://knn-iris-classifier.herokuapp.com/
+* http://titanicclassifier-env.g8sipcfcmu.us-east-1.elasticbeanstalk.com/
 * https://dashboard.heroku.com/apps/va-opioid-dashboard
 * https://virginia-2016-vote-totals.herokuapp.com/
 * https://my-test-pandas-app-123.herokuapp.com/
-* http://titanicclassifier-env.g8sipcfcmu.us-east-1.elasticbeanstalk.com/
 * http://python-eda-example.us-east-1.elasticbeanstalk.com/
-=======
->>>>>>> 411a09c4e0cca526a981f5bf4248983527b37736
+
