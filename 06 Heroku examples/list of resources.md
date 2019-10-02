@@ -8,6 +8,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://data-table-beer-example.herokuapp.com/
 * https://dash-linechart-example.herokuapp.com/
 * https://back2good-dc-metro.herokuapp.com/
+* https://dash-multitab-example.herokuapp.com/
 
 ## Dash apps with maps
 
