@@ -14,7 +14,9 @@ This page presents a collection of very simple dash apps, designed for learning 
 
 * https://va-opioid-dashboard.herokuapp.com/
 * https://iowa-has-lots-of-corn.herokuapp.com/
+* https://dash-density-heatmap.herokuapp.com/
 * https://obscure-brook-30801.herokuapp.com/
+
 
 ## Dash apps with simple callbacks
 
