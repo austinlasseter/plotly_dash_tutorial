@@ -1,7 +1,7 @@
 # Getting Started with Plotly Dash
 
 #### Course Description
-This course is a Python framework for building analytical web applications. Dash ties modern UI elements like dropdowns, sliders, and graphs to your Python code. In this class, participants will learn how to build a simple Dash application and deploy it online. Note: A lot of the material in this repo is taken from Chris Palmer and Jose Portilla - so full credit goes to them! Links below to their repos.
+This course is a Python framework for building analytical web applications. Dash ties modern UI elements like dropdowns, sliders, and graphs to your Python code. In this class, participants will learn how to build a simple Dash application and deploy it online.
 
 #### Installation
 [Anaconda](https://www.anaconda.com/download/)  
@@ -21,12 +21,9 @@ pip install virtualenv
 [Dash Community Forum - like StackOverflow for Dash](https://community.plot.ly/c/dash)  
 [Gallery of Dash apps](https://dash.plot.ly/gallery)  
 
-#### Jose Portilla's Udemy Course  
-[Dash class on Udemy by Jose Portilla](https://www.udemy.com/interactive-python-dashboards-with-plotly-and-dash/)  
+#### Additional resources for learning Dash  
 [Dash Workbook by Jose Portilla](https://docs.google.com/document/d/1DjWL2DxLiRaBrlD3ELyQlCBRu7UQuuWfgjv9LncNp_M/edit)  
 [Github Repo by Jose Portilla](https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash)  
-
-#### Useful blog posts:  
 [Bokeh vs. Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f)  
 [Using Dash to build public sector dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb)  
 [How a Flask app works](https://pythonhow.com/how-a-flask-app-works/)  
