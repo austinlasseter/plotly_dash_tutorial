@@ -12,10 +12,11 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://dash-simple-callback.herokuapp.com
 * https://chuck-norris-execution.herokuapp.com/
 * https://dash-radio-callback.herokuapp.com/
-* https://lightsaber-chooser.herokuapp.com/
 
-## Simple Tabs
+## More advanced callbacks
+* * https://lightsaber-chooser.herokuapp.com/
 * https://dash-multitab-example.herokuapp.com/
+* https://dash-daq-state.herokuapp.com/
 
 ## Dash apps with Pandas
 * https://virginia-2016-vote-totals.herokuapp.com/
