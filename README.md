@@ -6,7 +6,7 @@ Dash is a Python framework for building analytical web applications. Dash ties m
 ## Simple dash apps to fork and imitate
 This page presents a collection of very simple dash apps, designed for learning purposes. Each has an embedded link to its source code on github. Students can fork the code on github, modify the `app.py` file, and deploy their own version on Heroku. [Here's a Medium post](https://medium.com/@austinlasseter/how-to-deploy-a-simple-plotly-dash-app-to-heroku-622a2216eb73) describing how to do that.
 
-## Simple Dash apps (no callbacks, no pandas)
+## Simple (no callbacks, no pandas)
 * https://zoo-animals-dash.herokuapp.com/
 * https://flying-dog.herokuapp.com/
 * https://example-donut-chart.herokuapp.com/
@@ -17,10 +17,11 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://dash-simple-callback.herokuapp.com
 * https://chuck-norris-execution.herokuapp.com/
 * https://dash-radio-callback.herokuapp.com/
-* https://lightsaber-chooser.herokuapp.com/
 
-## Simple Tabs
+## More advanced callbacks
+* * https://lightsaber-chooser.herokuapp.com/
 * https://dash-multitab-example.herokuapp.com/
+* https://dash-daq-state.herokuapp.com/
 
 ## Dash apps with Pandas
 * https://virginia-2016-vote-totals.herokuapp.com/
@@ -41,6 +42,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://knn-iris-classifier.herokuapp.com/
 * http://titanicclassifier-env.g8sipcfcmu.us-east-1.elasticbeanstalk.com/
 * http://python-eda-example.us-east-1.elasticbeanstalk.com/
+
 
 #### Installation
 [Anaconda](https://www.anaconda.com/download/)  
