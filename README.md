@@ -19,7 +19,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://dash-radio-callback.herokuapp.com/
 
 ## More advanced callbacks
-* * https://lightsaber-chooser.herokuapp.com/
+* https://lightsaber-chooser.herokuapp.com/
 * https://dash-multitab-example.herokuapp.com/
 * https://dash-daq-state.herokuapp.com/
 
@@ -40,6 +40,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 
 ## Dash apps for machine learning models
 * https://knn-iris-classifier.herokuapp.com/
+* https://tmdb-rf-genres.herokuapp.com/
 * http://titanicclassifier-env.g8sipcfcmu.us-east-1.elasticbeanstalk.com/
 * http://python-eda-example.us-east-1.elasticbeanstalk.com/
 
