@@ -12,6 +12,7 @@ This page presents a collection of very simple dash apps, designed for learning 
 * https://example-donut-chart.herokuapp.com/
 * https://dash-linechart-example.herokuapp.com/
 * https://back2good-dc-metro.herokuapp.com/
+* for elastic beanstalk: https://github.com/austinlasseter/elastic-beanstalk-dash-app
 
 ## Dash apps with simple callbacks
 * https://dash-simple-callback.herokuapp.com
