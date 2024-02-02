@@ -1,5 +1,5 @@
 
-dash==0.28.5
+dash==2.15.0
 dash-core-components==0.36.1
 dash-html-components==0.13.2
 dash-renderer==0.14.3
